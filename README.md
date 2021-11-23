@@ -1,4 +1,6 @@
-## javaScript fundamentals with NodeJS
+## JavaScript para back-end
+
+### Aprenda a usar JavaScript fora do navegador
 
 É hoje uma das linguagens de programação mais populares da web e há alguns anos deixou de ser utilizada apenas em navegadores, para conseguirmos atribuir comportamentos a páginas. Agora ela também espaço no desenvolvimento de aplicações back-end, mobile e web apps , além de jogos.
 
